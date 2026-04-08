@@ -42,7 +42,7 @@
 
 ### 模块2.3：Agent架构设计（12课时）
 - [2.3.1 Agent基础架构](./module-2.3-agent-architecture/lessons/2.3.1-agent-basics.md)
-- [2.3.2 ReAct Agent](./module-2.3-agent-architecture/lessons/2.3.2-react-agent.md)
+- [2.3.2 ReAct Agent](./module-2.3-agent-architecture/lessons/2.3.2-react-pattern.md)
 - [2.3.3 Plan-and-Execute Agent](./module-2.3-agent-architecture/lessons/2.3.3-plan-execute.md)
 - [2.3.4 LangChain框架实战](./module-2.3-agent-architecture/lessons/2.3.4-langchain.md)
 - [2.3.5 LangGraph与状态管理](./module-2.3-agent-architecture/lessons/2.3.5-langgraph.md)

@@ -46,7 +46,7 @@ Agent：
 - 实现ReAct Agent
 
 **学习资源**：
-- [教程文档](./lessons/2.3.2-react-agent.md)
+- [教程文档](./lessons/2.3.2-react-pattern.md)
 
 ### 2.3.3 Plan-and-Execute Agent（2课时）
 - 任务规划原理
