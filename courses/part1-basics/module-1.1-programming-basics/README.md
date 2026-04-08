@@ -74,4 +74,4 @@
 ## 下一步
 
 完成本模块后，继续学习：
-- [模块1.2：AI基础概念](../module-1.2-ai-concepts/)
+- [模块1.2：AI基础概念](../module-1.2-ai-concepts/README.md)

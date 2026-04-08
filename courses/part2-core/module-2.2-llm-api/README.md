@@ -117,4 +117,4 @@ tools = [{
 ## 下一步
 
 完成本模块后，继续学习：
-- [模块2.3：Agent架构设计](../module-2.3-agent-architecture/)
+- [模块2.3：Agent架构设计](../module-2.3-agent-architecture/README.md)

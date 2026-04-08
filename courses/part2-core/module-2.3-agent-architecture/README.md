@@ -149,5 +149,5 @@ Agent：
 ## 下一步
 
 完成本模块后，继续学习：
-- [模块2.4：RAG技术](../module-2.4-rag/)
-- [模块2.5：Agent工具集成](../module-2.5-tool-integration/)
+- [模块2.4：RAG技术](../module-2.4-rag/README.md)
+- [模块2.5：Agent工具集成](../module-2.5-tool-integration/README.md)

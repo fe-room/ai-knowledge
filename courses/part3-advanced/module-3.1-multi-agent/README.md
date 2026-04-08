@@ -144,4 +144,4 @@ user_proxy.initiate_chat(
 ## 下一步
 
 完成本模块后，继续学习：
-- [模块3.2：Agent记忆与上下文管理](../module-3.2-memory-context/)
+- [模块3.2：Agent记忆与上下文管理](../module-3.2-memory-context/README.md)

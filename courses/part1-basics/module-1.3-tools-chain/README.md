@@ -66,4 +66,4 @@
 ## 下一步
 
 完成本模块后，继续学习：
-- [模块1.4：第一个AI程序](../module-1.4-first-project/)
+- [模块1.4：第一个AI程序](../module-1.4-first-project/README.md)

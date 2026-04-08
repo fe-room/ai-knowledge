@@ -124,4 +124,4 @@ class CostTracker:
 ## 下一步
 
 完成本模块后，继续学习：
-- [模块3.4：部署与运维](../module-3.4-deployment/)
+- [模块3.4：部署与运维](../module-3.4-deployment/README.md)

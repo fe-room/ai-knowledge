@@ -272,7 +272,7 @@ LLM：OpenAI GPT-4 / Claude
 ## 下一步
 
 开始第一个项目：
-- [项目1：智能客服机器人](./project-1-customer-service-bot/)
+- [项目1：智能客服机器人](./project-1-customer-service-bot/README.md)
 
 完成本部分后：
 - 掌握完整项目开发能力

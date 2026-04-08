@@ -63,4 +63,4 @@
 ## 下一步
 
 完成本模块后，继续学习：
-- [模块1.3：开发工具链](../module-1.3-tools-chain/)
+- [模块1.3：开发工具链](../module-1.3-tools-chain/README.md)

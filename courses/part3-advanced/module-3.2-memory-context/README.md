@@ -123,4 +123,4 @@ relevant = memory.load_memory_variables(
 ## 下一步
 
 完成本模块后，继续学习：
-- [模块3.3：评估与优化](../module-3.3-evaluation-optimization/)
+- [模块3.3：评估与优化](../module-3.3-evaluation-optimization/README.md)

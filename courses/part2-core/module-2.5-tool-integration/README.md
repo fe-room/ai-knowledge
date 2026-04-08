@@ -120,7 +120,7 @@ if response.choices[0].message.tool_calls:
 ## 下一步
 
 完成本模块后，你已经掌握核心篇所有内容！继续学习：
-- [第三部分：进阶篇](../../part3-advanced/)
+- [第三部分：进阶篇](../../part3-advanced/README.md)
   - 多Agent系统
   - 记忆与上下文管理
   - 评估与优化

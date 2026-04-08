@@ -69,7 +69,7 @@
 ## 下一步
 
 完成入门项目后，你已经具备基础能力，可以继续学习：
-- [第二部分：核心篇](../../part2-core/)
+- [第二部分：核心篇](../../part2-core/README.md)
   - Prompt Engineering
   - Agent架构设计
   - RAG技术
