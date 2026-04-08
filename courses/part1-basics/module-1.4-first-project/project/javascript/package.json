@@ -1,0 +1,14 @@
+{
+  "name": "js-chatbot",
+  "version": "1.0.0",
+  "description": "第一个JavaScript AI聊天机器人",
+  "type": "module",
+  "main": "simple_chatbot.js",
+  "scripts": {
+    "start": "node simple_chatbot.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
